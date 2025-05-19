@@ -64,5 +64,3 @@ By integrating real-time face detection and LBPH-based face recognition, this sy
 
 ---
 
-## 📂 Suggested Project Structure (Optional)
-
